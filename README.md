@@ -1,2 +1,2 @@
 # cs1200-repo
-This is an assignment only
+This is an assignment only for CS 1200
